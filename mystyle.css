@@ -1,0 +1,34 @@
+.city{
+    color:rgb(114, 97, 42);
+}
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+  }
+  h1{
+    background-color:rgb(246, 110, 133);
+  }
+  
+  body{
+    background-image:url("https://img.freepik.com/free-photo/maple-leaf-border-background-orange-watercolor-autumn-season_53876-128735.jpg?w=2000");
+  }
+.man > {
+background-position: 5mm;
+}
+.flex-container {
+display: flex;
+
+}
+.flex-container > div {
+background-color: #f4f1f1;
+margin: 5px;
+padding: 10px;
+font-size: 15px;
+
+}
+.w3-row-padding{
+align-content: center;
+}
+.fan{
+    
+}
